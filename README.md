@@ -29,6 +29,11 @@
     <a href="https://drive.google.com/file/d/1MpwKT3UhwmfpsDR2B-asCWfq_LGjthJ4/view?usp=sharing"_blank">Watch our demo !</a>
   </p>
 
+  <h2>Deployment Link </h2>
+   <p>
+    <a href="https://llc-fr-crce-ng3m.vercel.app/"_blank">Checkout our project</a>
+  </p>
+
   <h2>🖼️ Presentation Slides</h2>
   <p>
     Kindly view the PPT for better understanding.
